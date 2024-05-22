@@ -1,0 +1,9 @@
+com\javarush\config\WebConfig.class
+com\javarush\doa\TaskDAO.class
+com\javarush\config\WebAppInitializer.class
+com\javarush\domain\Task.class
+com\javarush\config\AppConfig.class
+com\javarush\controller\TaskInfo.class
+com\javarush\service\TaskService.class
+com\javarush\domain\Status.class
+com\javarush\controller\TaskController.class
